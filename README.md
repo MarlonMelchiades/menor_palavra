@@ -1,2 +1,3 @@
 # Print the smallest word
-simple program that reads two words from the input and prints the smallest of them.
+Programa que lê duas palavras da entrada e imprime a menor delas. Simples. Início.
+
