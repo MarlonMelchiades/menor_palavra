@@ -4,3 +4,4 @@ Programa que lê duas palavras da entrada e imprime a menor delas. Simples. Iní
 2
 3
 4
+5
