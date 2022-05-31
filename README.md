@@ -7,3 +7,4 @@ Programa que lê duas palavras da entrada e imprime a menor delas. Simples. Iní
 5
 6
 7
+8
